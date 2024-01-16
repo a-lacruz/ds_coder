@@ -1,4 +1,4 @@
-<span style="color:blue; font-size:26px; font-weight:bold;">**Análisis de datos del conjunto de datos "Telco Customer Churn**</span>
+# Análisis de datos del conjunto de datos "Telco Customer Churn
 
 **Este es mi proyecto final para el curso de Data Science. El objetivo de este proyecto es realizar un análisis de datos del conjunto "Telco Customer Churn". En él se explorará el conjunto de datos para analizar los factores que influyen en la tasa de abandono de los clientes de una empresa de telecomunicaciones.**
 
@@ -8,8 +8,11 @@ La tasa de abandono de clientes (o churn rate, en inglés) es una métrica impor
 En este proyecto, se explorará el conjunto de datos "Telco Customer Churn" utilizando herramientas y técnicas de análisis de datos y modelado predictivo. Se buscará responder preguntas específicas, como:
 
 A. **¿Cuáles son los factores que influyen en la tasa de abandono de los clientes?**
+
 B. **¿Hay alguna relación entre la duración del contrato y la tasa de abandono?**
+
 C. **¿Cómo afecta el tipo de servicio contratado a la tasa de abandono?**
+
 D. **¿Qué tan precisos son los modelos de predicción para identificar a los clientes con mayor probabilidad de abandonar?**
 
 Para responder a estas preguntas, se realizará un análisis exploratorio de datos, se creará un modelo predictivo utilizando técnicas de aprendizaje automático y se evaluará su precisión. Además, se utilizarán técnicas de optimización de hiperparámetros para mejorar la precisión del modelo. Finalmente, se seleccionará el mejor modelo y se presentarán recomendaciones para reducir la tasa de abandono de los clientes.
