@@ -7,13 +7,13 @@ La tasa de abandono de clientes (o churn rate, en inglés) es una métrica impor
 
 En este proyecto, se explorará el conjunto de datos "Telco Customer Churn" utilizando herramientas y técnicas de análisis de datos y modelado predictivo. Se buscará responder preguntas específicas, como:
 
-A. **¿Cuáles son los factores que influyen en la tasa de abandono de los clientes?**
+A. **¿La edad, el sexo del cliente influye en la tasa de abandono?**
 
-B. **¿Hay alguna relación entre la duración del contrato y la tasa de abandono?**
+B. **¿Hay alguna relación entre la duración del contrato y/o el tipo de pago utilizado con la tasa de abandono?**
 
-C. **¿Cómo afecta el tipo de servicio contratado a la tasa de abandono?**
+C. **¿Cómo afecta a la tasa de abandono, los servicios adicionales que el cliente tenga contratados?**
 
-D. **¿Qué tan precisos son los modelos de predicción para identificar a los clientes con mayor probabilidad de abandonar?**
+D. **¿Por tanto, cuáles son los factores que más influyen en la tasa de abandono de los clientes?**
 
 Para responder a estas preguntas, se realizará un análisis exploratorio de datos, se creará un modelo predictivo utilizando técnicas de aprendizaje automático y se evaluará su precisión. Además, se utilizarán técnicas de optimización de hiperparámetros para mejorar la precisión del modelo. Finalmente, se seleccionará el mejor modelo y se presentarán recomendaciones para reducir la tasa de abandono de los clientes.
 
